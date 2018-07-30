@@ -1,5 +1,6 @@
 # on-build-webpack
-> For Webpack 4
+> Updated for Webpack 4, for lower version, check [old version of this project](https://github.com/kossnocorp/on-build-webpack).
+
 [Webpack](http://webpack.github.io/) plugin that gives ability to add callback
 after build.
 
